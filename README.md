@@ -1,4 +1,4 @@
-Here’s a **complete `README.md`** tailored for your client to run the FastAPI project on **Windows** without Docker. It explains all steps: installing Python & dependencies, activating the virtual environment, running the server, testing, and accessing the JSON output.
+Here’s a **complete `README.md`** tailored for you to run the FastAPI project on **Windows** without Docker. It explains all steps: installing Python & dependencies, activating the virtual environment, running the server, testing, and accessing the JSON output.
 
 ````markdown
 # Google Maps Review Scraper API
