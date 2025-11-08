@@ -34,21 +34,13 @@ cd C:\maps-scraper-api
 Clone the repository (or copy the project folder):
 
 ```cmd
-git clone <repository-url> maps-scraper-api
+https://github.com/alijaan110/maps-scraper-api.git
 cd maps-scraper-api
 ```
 
 ---
 
-## 3️⃣ Create and Activate Virtual Environment (venv)
-
-Create a new virtual environment (if not already created):
-
-```cmd
-python -m venv scraperfastapi
-```
-
-Activate the virtual environment:
+## 3️⃣ Activate Virtual Environment (venv)
 
 ```cmd
 scraperfastapi\Scripts\activate
